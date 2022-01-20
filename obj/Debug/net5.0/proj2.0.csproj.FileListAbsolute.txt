@@ -1,0 +1,118 @@
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\appsettings.Development.json
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\appsettings.json
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\proj2.0.exe
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\proj2.0.deps.json
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\proj2.0.runtimeconfig.json
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\proj2.0.runtimeconfig.dev.json
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\proj2.0.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\ref\proj2.0.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\proj2.0.pdb
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.csproj.AssemblyReference.cache
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.GeneratedMSBuildEditorConfig.editorconfig
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.AssemblyInfoInputs.cache
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.AssemblyInfo.cs
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.csproj.CoreCompileInputs.cache
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.MvcApplicationPartsAssemblyInfo.cs
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.MvcApplicationPartsAssemblyInfo.cache
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\staticwebassets\proj2.0.StaticWebAssets.Manifest.cache
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\staticwebassets\proj2.0.StaticWebAssets.xml
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\scopedcss\bundle\proj2.0.styles.css
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.RazorTargetAssemblyInfo.cache
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.csproj.CopyComplete
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\ref\proj2.0.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.pdb
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\obj\Debug\net5.0\proj2.0.genruntimeconfig.cache
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Humanizer.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Elfak\III god\I semestar\Web Programiranje\Milica\proj2.0\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\appsettings.Development.json
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\appsettings.json
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\proj2.0.exe
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\proj2.0.deps.json
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\proj2.0.runtimeconfig.json
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\proj2.0.runtimeconfig.dev.json
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\proj2.0.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\ref\proj2.0.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\proj2.0.pdb
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Humanizer.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fax\3god\web\proj2.0\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.csproj.AssemblyReference.cache
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.AssemblyInfoInputs.cache
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.AssemblyInfo.cs
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.csproj.CoreCompileInputs.cache
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.MvcApplicationPartsAssemblyInfo.cs
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.MvcApplicationPartsAssemblyInfo.cache
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\staticwebassets\proj2.0.StaticWebAssets.Manifest.cache
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\staticwebassets\proj2.0.StaticWebAssets.xml
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\scopedcss\bundle\proj2.0.styles.css
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.RazorTargetAssemblyInfo.cache
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.csproj.CopyComplete
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.dll
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\ref\proj2.0.dll
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.pdb
+D:\fax\3god\web\proj2.0\obj\Debug\net5.0\proj2.0.genruntimeconfig.cache
